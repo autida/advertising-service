@@ -1,0 +1,72 @@
+com/amazon/ata/advertising/service/model/translator/TargetingGroupTranslatorTest.java
+ com.amazon.ata.advertising.service.model.translator.TargetingGroupTranslatorTest
+com/amazon/ata/advertising/service/dependency/TargetingPredicateInjectorTest.java
+ com.amazon.ata.advertising.service.dependency.TargetingPredicateInjectorTest
+com/amazon/ata/advertising/service/dao/CustomerSpendDaoTest.java
+ com.amazon.ata.advertising.service.dao.CustomerSpendDaoTest
+com/amazon/ata/advertising/service/dao/ContentDaoTest.java
+ com.amazon.ata.advertising.service.dao.ContentDaoTest
+com/amazon/ata/advertising/service/targeting/TargetingEvaluatorTest.java
+ com.amazon.ata.advertising.service.targeting.TargetingEvaluatorTest
+com/amazon/ata/advertising/service/model/translator/TargetingPredicateTranslatorTest.java
+ com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest
+com/amazon/ata/advertising/service/targeting/predicate/AgeTargetingPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.AgeTargetingPredicateTest
+com/tct/helper/TestConstants.java
+ com.tct.helper.TestConstants
+com/amazon/ata/advertising/service/targeting/predicate/CategorySpendFrequencyTargetingPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.CategorySpendFrequencyTargetingPredicateTest
+com/amazon/ata/advertising/service/businesslogic/AdvertisementSelectionLogicTest.java
+ com.amazon.ata.advertising.service.businesslogic.AdvertisementSelectionLogicTest
+com/amazon/ata/advertising/service/dao/PrimeDaoTest.java
+ com.amazon.ata.advertising.service.dao.PrimeDaoTest
+com/tct/mastery/task2/GenerateAdvertisementRegressionTest.java
+ com.tct.mastery.task2.GenerateAdvertisementRegressionTest
+com/tct/introspection/MT2IntrospectionTests.java
+ com.tct.introspection.MT2IntrospectionTests
+com/tct/mastery/task3/part1/MasteryTaskThreeTests.java
+ com.tct.mastery.task3.part1.MasteryTaskThreeTests
+com/tct/mastery/task2/MasteryTaskTwoTests.java
+ com.tct.mastery.task2.MasteryTaskTwoTests
+com/tct/mastery/task3/MasteryTaskThreeHelper.java
+ com.tct.mastery.task3.MasteryTaskThreeHelper
+com/amazon/ata/advertising/service/model/translator/AdvertisementContentTranslatorTest.java
+ com.amazon.ata.advertising.service.model.translator.AdvertisementContentTranslatorTest
+com/amazon/ata/advertising/service/model/translator/AdvertisementTranslatorTest.java
+ com.amazon.ata.advertising.service.model.translator.AdvertisementTranslatorTest
+com/amazon/ata/advertising/service/activity/GenerateAdActivityTest.java
+ com.amazon.ata.advertising.service.activity.GenerateAdActivityTest
+com/amazon/ata/advertising/service/targeting/predicate/PrimeBenefitTargetingPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest
+com/amazon/ata/advertising/service/activity/CreateContentActivityTest.java
+ com.amazon.ata.advertising.service.activity.CreateContentActivityTest
+com/tct/mastery/task3/part2/MasteryTaskThreeTests.java
+ com.tct.mastery.task3.part2.MasteryTaskThreeTests
+com/amazon/ata/advertising/service/targeting/predicate/ParentPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.ParentPredicateTest
+com/amazon/ata/advertising/service/targeting/predicate/CategorySpendValueTargetingPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.CategorySpendValueTargetingPredicateTest
+com/amazon/ata/advertising/service/targeting/ComparisonTest.java
+ com.amazon.ata.advertising.service.targeting.ComparisonTest
+com/amazon/ata/advertising/service/activity/AddTargetingGroupActivityTest.java
+ com.amazon.ata.advertising.service.activity.AddTargetingGroupActivityTest
+com/tct/mastery/task1/MasteryTaskOneLogicTests.java
+ com.tct.mastery.task1.MasteryTaskOneLogicTests
+com/amazon/ata/advertising/service/dao/TargetingGroupDaoTest.java
+ com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest
+com/amazon/ata/advertising/service/targeting/predicate/TargetingPredicateTypeConverterTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest
+com/amazon/ata/advertising/service/targeting/predicate/RecognizedTargetingPredicateTest.java
+ com.amazon.ata.advertising.service.targeting.predicate.RecognizedTargetingPredicateTest
+com/amazon/ata/advertising/service/activity/DeleteContentActivityTest.java
+ com.amazon.ata.advertising.service.activity.DeleteContentActivityTest
+com/tct/introspection/MT1IntrospectionTests.java
+ com.tct.introspection.MT1IntrospectionTests
+com/amazon/ata/advertising/service/dao/CustomerProfileDaoTest.java
+ com.amazon.ata.advertising.service.dao.CustomerProfileDaoTest
+com/amazon/ata/advertising/service/model/AdvertisementContentTest.java
+ com.amazon.ata.advertising.service.model.AdvertisementContentTest
+com/amazon/ata/advertising/service/activity/UpdateContentActivityTest.java
+ com.amazon.ata.advertising.service.activity.UpdateContentActivityTest
+com/amazon/ata/advertising/service/activity/UpdateClickThroughRateActivityTest.java
+ com.amazon.ata.advertising.service.activity.UpdateClickThroughRateActivityTest

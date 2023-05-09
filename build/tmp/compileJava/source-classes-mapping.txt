@@ -1,0 +1,152 @@
+com/amazon/ata/advertising/service/activity/GenerateAdActivity.java
+ com.amazon.ata.advertising.service.activity.GenerateAdActivity
+com/amazon/ata/advertising/service/dao/TargetingGroupDao.java
+ com.amazon.ata.advertising.service.dao.TargetingGroupDao
+com/amazon/ata/advertising/service/targeting/predicate/TargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicate
+com/amazon/ata/advertising/service/dependency/DaoModule.java
+ com.amazon.ata.advertising.service.dependency.DaoModule
+com/amazon/ata/advertising/service/activity/dagger/GenerateAdActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.GenerateAdActivityDagger
+com/amazon/ata/advertising/service/model/responses/GenerateAdvertisementResponse.java
+ com.amazon.ata.advertising.service.model.responses.GenerateAdvertisementResponse
+ com.amazon.ata.advertising.service.model.responses.GenerateAdvertisementResponse$Builder
+com/amazon/ata/advertising/service/model/requests/GenerateAdvertisementRequest.java
+ com.amazon.ata.advertising.service.model.requests.GenerateAdvertisementRequest
+ com.amazon.ata.advertising.service.model.requests.GenerateAdvertisementRequest$Builder
+com/amazon/ata/advertising/service/util/Futures.java
+ com.amazon.ata.advertising.service.util.Futures
+com/amazon/ata/advertising/service/model/responses/AddTargetingGroupResponse.java
+ com.amazon.ata.advertising.service.model.responses.AddTargetingGroupResponse
+ com.amazon.ata.advertising.service.model.responses.AddTargetingGroupResponse$Builder
+com/amazon/ata/advertising/service/model/EmptyAdvertisementContent.java
+ com.amazon.ata.advertising.service.model.EmptyAdvertisementContent
+com/amazon/ata/advertising/service/model/RequestContext.java
+ com.amazon.ata.advertising.service.model.RequestContext
+com/amazon/ata/advertising/service/model/Advertisement.java
+ com.amazon.ata.advertising.service.model.Advertisement
+ com.amazon.ata.advertising.service.model.Advertisement$Builder
+com/amazon/ata/advertising/service/targeting/predicate/CategorySpendFrequencyTargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.CategorySpendFrequencyTargetingPredicate
+com/amazon/ata/advertising/service/activity/dagger/CreateContentActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.CreateContentActivityDagger
+com/amazon/ata/advertising/service/dependency/DynamoDBModule.java
+ com.amazon.ata.advertising.service.dependency.DynamoDBModule
+com/amazon/ata/advertising/service/activity/dagger/DeleteContentActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.DeleteContentActivityDagger
+com/amazon/ata/advertising/service/targeting/predicate/ParentPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.ParentPredicate
+com/amazon/ata/advertising/service/targeting/predicate/PrimeBenefitTargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicate
+com/amazon/ata/advertising/service/model/TargetingPredicateType.java
+ com.amazon.ata.advertising.service.model.TargetingPredicateType
+com/amazon/ata/advertising/service/activity/dagger/AddTargetingGroupActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.AddTargetingGroupActivityDagger
+com/amazon/ata/advertising/service/activity/UpdateClickThroughRateActivity.java
+ com.amazon.ata.advertising.service.activity.UpdateClickThroughRateActivity
+com/amazon/ata/advertising/service/model/AdvertisementContent.java
+ com.amazon.ata.advertising.service.model.AdvertisementContent
+ com.amazon.ata.advertising.service.model.AdvertisementContent$Builder
+com/amazon/ata/advertising/service/model/responses/UpdateClickThroughRateResponse.java
+ com.amazon.ata.advertising.service.model.responses.UpdateClickThroughRateResponse
+ com.amazon.ata.advertising.service.model.responses.UpdateClickThroughRateResponse$Builder
+com/amazon/ata/advertising/service/activity/dagger/UpdateClickThroughRateActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.UpdateClickThroughRateActivityDagger
+com/amazon/ata/advertising/service/model/translator/AdvertisementTranslator.java
+ com.amazon.ata.advertising.service.model.translator.AdvertisementTranslator
+com/amazon/ata/advertising/service/model/responses/DeleteContentResponse.java
+ com.amazon.ata.advertising.service.model.responses.DeleteContentResponse
+ com.amazon.ata.advertising.service.model.responses.DeleteContentResponse$Builder
+com/amazon/ata/advertising/service/model/translator/AdvertisementContentTranslator.java
+ com.amazon.ata.advertising.service.model.translator.AdvertisementContentTranslator
+com/amazon/ata/advertising/service/targeting/TargetingEvaluator.java
+ com.amazon.ata.advertising.service.targeting.TargetingEvaluator
+com/amazon/ata/advertising/service/model/responses/CreateContentResponse.java
+ com.amazon.ata.advertising.service.model.responses.CreateContentResponse
+ com.amazon.ata.advertising.service.model.responses.CreateContentResponse$Builder
+com/amazon/ata/advertising/service/model/requests/UpdateContentRequest.java
+ com.amazon.ata.advertising.service.model.requests.UpdateContentRequest
+ com.amazon.ata.advertising.service.model.requests.UpdateContentRequest$Builder
+com/amazon/ata/advertising/service/dependency/TargetingPredicateInjector.java
+ com.amazon.ata.advertising.service.dependency.TargetingPredicateInjector
+com/amazon/ata/advertising/service/util/EncryptionUtil.java
+ com.amazon.ata.advertising.service.util.EncryptionUtil
+com/amazon/ata/advertising/service/dao/PrimeDao.java
+ com.amazon.ata.advertising.service.dao.PrimeDao
+com/amazon/ata/advertising/service/dao/ContentDao.java
+ com.amazon.ata.advertising.service.dao.ContentDao
+com/amazon/ata/advertising/service/businesslogic/AdvertisementSelectionLogic.java
+ com.amazon.ata.advertising.service.businesslogic.AdvertisementSelectionLogic
+com/amazon/ata/advertising/service/targeting/TargetingGroup.java
+ com.amazon.ata.advertising.service.targeting.TargetingGroup
+com/amazon/ata/advertising/service/dependency/ExternalServiceModule.java
+ com.amazon.ata.advertising.service.dependency.ExternalServiceModule
+com/amazon/ata/advertising/service/model/TargetingPredicate.java
+ com.amazon.ata.advertising.service.model.TargetingPredicate
+ com.amazon.ata.advertising.service.model.TargetingPredicate$Builder
+com/amazon/ata/advertising/service/exceptions/AdvertisementClientException.java
+ com.amazon.ata.advertising.service.exceptions.AdvertisementClientException
+com/amazon/ata/advertising/service/exceptions/AdvertisementServiceException.java
+ com.amazon.ata.advertising.service.exceptions.AdvertisementServiceException
+com/amazon/ata/advertising/service/dao/ReadableDao.java
+ com.amazon.ata.advertising.service.dao.ReadableDao
+com/amazon/ata/advertising/service/activity/AddTargetingGroupActivity.java
+ com.amazon.ata.advertising.service.activity.AddTargetingGroupActivity
+com/amazon/ata/advertising/service/targeting/predicate/TargetingPredicateTypeConverter.java
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverter
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverter$1
+com/amazon/ata/advertising/service/model/translator/TargetingPredicateTranslator.java
+ com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslator
+ com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslator$1
+com/amazon/ata/advertising/service/model/translator/TargetingGroupTranslator.java
+ com.amazon.ata.advertising.service.model.translator.TargetingGroupTranslator
+com/amazon/ata/advertising/service/dao/CustomerProfileDao.java
+ com.amazon.ata.advertising.service.dao.CustomerProfileDao
+com/amazon/ata/advertising/service/activity/UpdateContentActivity.java
+ com.amazon.ata.advertising.service.activity.UpdateContentActivity
+com/amazon/ata/advertising/service/model/requests/UpdateClickThroughRateRequest.java
+ com.amazon.ata.advertising.service.model.requests.UpdateClickThroughRateRequest
+ com.amazon.ata.advertising.service.model.requests.UpdateClickThroughRateRequest$Builder
+com/amazon/ata/advertising/service/targeting/Comparison.java
+ com.amazon.ata.advertising.service.targeting.Comparison
+com/amazon/ata/advertising/service/model/TargetingGroup.java
+ com.amazon.ata.advertising.service.model.TargetingGroup
+ com.amazon.ata.advertising.service.model.TargetingGroup$Builder
+com/amazon/ata/advertising/service/model/requests/AddTargetingGroupRequest.java
+ com.amazon.ata.advertising.service.model.requests.AddTargetingGroupRequest
+ com.amazon.ata.advertising.service.model.requests.AddTargetingGroupRequest$Builder
+com/amazon/ata/advertising/service/activity/DeleteContentActivity.java
+ com.amazon.ata.advertising.service.activity.DeleteContentActivity
+com/amazon/ata/advertising/service/targeting/predicate/CategorySpendValueTargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.CategorySpendValueTargetingPredicate
+com/amazon/ata/advertising/service/targeting/predicate/AgeTargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.AgeTargetingPredicate
+com/amazon/ata/advertising/service/targeting/predicate/TargetingPredicateResult.java
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateResult
+ com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateResult$1
+com/amazon/ata/advertising/service/dao/CustomerSpendDao.java
+ com.amazon.ata.advertising.service.dao.CustomerSpendDao
+com/amazon/ata/advertising/service/model/GeneratedAdvertisement.java
+ com.amazon.ata.advertising.service.model.GeneratedAdvertisement
+com/amazon/ata/advertising/service/model/requests/CreateContentRequest.java
+ com.amazon.ata.advertising.service.model.requests.CreateContentRequest
+ com.amazon.ata.advertising.service.model.requests.CreateContentRequest$Builder
+com/amazon/ata/advertising/service/model/EmptyGeneratedAdvertisement.java
+ com.amazon.ata.advertising.service.model.EmptyGeneratedAdvertisement
+com/amazon/ata/advertising/service/dependency/LambdaComponent.java
+ com.amazon.ata.advertising.service.dependency.LambdaComponent
+com/amazon/ata/advertising/service/activity/dagger/UpdateContentActivityDagger.java
+ com.amazon.ata.advertising.service.activity.dagger.UpdateContentActivityDagger
+com/amazon/ata/advertising/service/model/requests/DeleteContentRequest.java
+ com.amazon.ata.advertising.service.model.requests.DeleteContentRequest
+ com.amazon.ata.advertising.service.model.requests.DeleteContentRequest$Builder
+com/amazon/ata/advertising/service/activity/CreateContentActivity.java
+ com.amazon.ata.advertising.service.activity.CreateContentActivity
+com/amazon/ata/advertising/service/model/responses/UpdateContentResponse.java
+ com.amazon.ata.advertising.service.model.responses.UpdateContentResponse
+ com.amazon.ata.advertising.service.model.responses.UpdateContentResponse$Builder
+com/amazon/ata/advertising/service/targeting/predicate/RecognizedTargetingPredicate.java
+ com.amazon.ata.advertising.service.targeting.predicate.RecognizedTargetingPredicate
+com/amazon/ata/advertising/service/model/AdvertisingContent.java
+ com.amazon.ata.advertising.service.model.AdvertisingContent
+ com.amazon.ata.advertising.service.model.AdvertisingContent$Builder

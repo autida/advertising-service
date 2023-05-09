@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tct.mastery.task3.part2.MasteryTaskThreeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-24T03:52:30" hostname="AMPACADEMY-AUTI" time="14.941">
+  <properties/>
+  <testcase name="generateAdvertisementNoCustomerId_multipleContentEachSingleTargetingGroups_alwaysReturnsHighestCTR()" classname="com.tct.mastery.task3.part2.MasteryTaskThreeTests" time="14.941"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
